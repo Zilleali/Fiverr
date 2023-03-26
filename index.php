@@ -5,7 +5,7 @@
 
 ?>
 
-<div class="main">
+<!-- <div class="main"> -->
   <div class="slider">
     <div class="car">
       <div class="card">
