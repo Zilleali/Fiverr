@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Fiverr - Freelance Services Marketplace</title>
   <link rel="stylesheet" href="assest\dist\css\main.css">
-  <link rel="stylesheet" href="assest\dist\css\resposnive.css">
+  <link rel="stylesheet" href="assest\dist\css\responsive.css">
 
   <link rel="stylesheet" href="assest\plugin\bootstrap\css\bootstrap.min.css">
   <!-- <link rel="stylesheet" href="assest\plugin\slick\css\slick-theme.min.css">

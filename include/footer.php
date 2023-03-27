@@ -161,11 +161,11 @@
   <script>
     $(".slider").slick({
       infinite: false,
-      speed: 800,
+      // speed: 800,
       slidesToShow: 5,
       slidesToScroll: 1,
       autoplay: true,
-      // autoplaySpeed: 2000,
+      autoplaySpeed: 200000000,
       dots: false,
       responsive: [{
           breakpoint: 1024,
