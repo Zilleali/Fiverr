@@ -7,11 +7,14 @@
   <title>Fiverr - Freelance Services Marketplace</title>
   <link rel="stylesheet" href="assest\dist\css\main.css">
   <link rel="stylesheet" href="assest\plugin\bootstrap\css\bootstrap.min.css">
-  <link rel="stylesheet" href="assest\plugin\slick\css\slick-theme.min.css">
-  <link rel="stylesheet" href="assest\plugin\slick\css\slick-theme.css">
+  <!-- <link rel="stylesheet" href="assest\plugin\slick\css\slick-theme.min.css">
+  <link rel="stylesheet" href="assest\plugin\slick\css\slick-theme.css"> -->
   <!-- <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script> -->
+ <!-- slider -->
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css" />
 
 
     <link

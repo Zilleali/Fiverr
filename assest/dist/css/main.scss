@@ -1088,11 +1088,6 @@ img {
   left: 0 !important;
 }
 
-html,
-body {
-  margin: 0;
-  padding: 0;
-}
 
 .main {
   width: 100%;
@@ -1134,24 +1129,24 @@ h2 {
   vertical-align: top;
 }
 
-.card-content {
-  text-align: center;
-  color: #333;
-  padding: 15px;
-}
+// .card-content {
+//   text-align: center;
+//   color: #333;
+//   padding: 15px;
+// }
 
 .card-text {
   font-size: 14px;
   font-weight: 300;
 }
 
-.car:hover img {
-  opacity: 0.1;
-}
+// .car:hover img {
+//   opacity: 0.1;
+// }
 
-.card:hover .middle {
-  opacity: 3;
-}
+// .card:hover .middle {
+//   opacity: 3;
+// }
 
 .car:hover .middle {
   background-color: #51cca0;

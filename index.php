@@ -5,99 +5,198 @@ include('./include/top-bar.php');
 
 ?>
 
-<!-- <div class="main">
-  <div class="slider">
-    <div class="car">
-      <div class="card">
-        <div class="card-header">
-
-          <img src="https://images.unsplash.com/photo-1656786998196-77a60593173c?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTg0OTg1NzQ&ixlib=rb-1.2.1&q=80">
-          <div id="" class="middle">
-            <div class="text">Slide 1</div>
-          </div>
+<div class="main">
+        <div class="heading">
+            <h4>Popular professional services
+            </h4>
         </div>
+        <div class="slider">
+            <div class="car">
+                <div class="card">
+                    <div class="card-header">
 
-        <div class="card-body">
-          <div class="card-content">
-            <div class="card-title">Classic Icon With Title</div>
+                        <img
+                            src="https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741678/logo-design-2x.png">
+                        <div id="" class="middle">
+                            <div class="text">Slide 1</div>
+                        </div>
+                    </div>
 
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="car">
-      <div class="card">
-        <div class="card-header">
+                    <!-- <div class="card-body">
+                        <div class="card-content">
+                            <div class="card-title">Classic Icon With Title</div>
 
-          <img src="https://images.unsplash.com/photo-1657720209025-e7c1319c1147?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTg0OTg1NzQ&ixlib=rb-1.2.1&q=80">
-          <div class="middle">
-            <div class="text">Slide 2</div>
-          </div>
-        </div>
-
-        <div class="card-body">
-          <div class="card-content">
-            <div class="card-title">Responsive Design</div>
-
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="car">
-      <div class="card">
-        <div class="card-header">
-
-          <img src="https://images.unsplash.com/photo-1657041062833-f0d9051bb4fa?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTg0OTg2NzY&ixlib=rb-1.2.1&q=80">
-          <div class="middle">
-            <div class="text">Slide 3</div>
-          </div>
-        </div>
-
-        <div class="card-body">
-          <div class="card-content">
-            <div class="card-title">Awesome Sliders</div>
-
-          </div>
-        </div>
-
-      </div>
-    </div>
-    <div class="car">
-      <div class="card">
-        <div class="card-header">
-          <img src="https://images.unsplash.com/photo-1657204827582-3e477eaf4555?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTg0OTg2NzY&ixlib=rb-1.2.1&q=80">
-          <div class="middle">
-            <div class="text">Slide 4</div>
-          </div>
-        </div>
-        <div class="card-body">
-
-          <div class="card-content">
-            <div class="card-title"> 500+ Google Fonts</div>
-
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="car">
-      <div class="card">
-        <div class="card-header">
-          <img src="https://images.unsplash.com/photo-1657831933546-5283f6df07e2?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTg0OTg2NzY&ixlib=rb-1.2.1&q=80">
-          <div class="middle">
-            <div class="text">Slide 5</div>
-          </div>
-        </div>
-        <div class="card-body">
-          <div class="card-content">
-            <div class="card-title">Content box
+                        </div>
+                    </div> -->
+                </div>
             </div>
+            <div class="car">
+                <div class="card">
+                    <div class="card-header">
 
-          </div>
+                        <img
+                            src="https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/ae11e2d45410b0eded7fba0e46b09dbd-1598561917003/wordpress-2x.png">
+                        <div class="middle">
+                            <div class="text">Slide 2</div>
+                        </div>
+                    </div>
+
+                    <!-- <div class="card-body">
+                        <div class="card-content">
+                            <div class="card-title">Responsive Design</div>
+
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+            <div class="car">
+                <div class="card">
+                    <div class="card-header">
+
+                        <img
+                            src="https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741669/voiceover-2x.png">
+                        <div class="middle">
+                            <div class="text">Slide 3</div>
+                        </div>
+                    </div>
+
+                    <!-- <div class="card-body">
+                        <div class="card-content">
+                            <div class="card-title">Awesome Sliders</div>
+
+                        </div>
+                    </div> -->
+
+                </div>
+            </div>
+            <div class="car">
+                <div class="card">
+                    <div class="card-header">
+                        <img
+                            src="https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741663/animated-explainer-2x.png">
+                        <div class="middle">
+                            <div class="text">Slide 4</div>
+                        </div>
+                    </div>
+                    <!-- <div class="card-body">
+
+                        <div class="card-content">
+                            <div class="card-title"> 500+ Google Fonts</div>
+
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+            <div class="car">
+                <div class="card">
+                    <div class="card-header">
+                        <img
+                            src="https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741667/social-2x.png">
+                        <div class="middle">
+                            <div class="text">Slide 5</div>
+                        </div>
+                    </div>
+                    <!-- <div class="card-body">
+                        <div class="card-content">
+                            <div class="card-title">Content box
+                            </div>
+
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+            <div class="car">
+                <div class="card">
+                    <div class="card-header">
+                        <img
+                            src="https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741668/seo-2x.png">
+                        <div class="middle">
+                            <div class="text">Slide 5</div>
+                        </div>
+                    </div>
+                    <!-- <div class="card-body">
+                        <div class="card-content">
+                            <div class="card-title">Content box
+                            </div>
+
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+            <div class="car">
+                <div class="card">
+                    <div class="card-header">
+                        <img
+                            src="https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741664/illustration-2x.png">
+                        <div class="middle">
+                            <div class="text">Slide 5</div>
+                        </div>
+                    </div>
+                    <!-- <div class="card-body">
+                        <div class="card-content">
+                            <div class="card-title">Content box
+                            </div>
+
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+            <div class="car">
+                <div class="card">
+                    <div class="card-header">
+                        <img
+                            src="https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741674/translation-2x.png">
+                        <div class="middle">
+                            <div class="text">Slide 5</div>
+                        </div>
+                    </div>
+                    <!-- <div class="card-body">
+                        <div class="card-content">
+                            <div class="card-title">Content box
+                            </div>
+
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+            <div class="car">
+                <div class="card">
+                    <div class="card-header">
+                        <img
+                            src="https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741664/data-entry-2x.png">
+                        <div class="middle">
+                            <div class="text">Slide 5</div>
+                        </div>
+                    </div>
+                    <!-- <div class="card-body">
+                        <div class="card-content">
+                            <div class="card-title">Content box
+                            </div>
+
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+            <div class="car">
+                <div class="card">
+                    <div class="card-header">
+                        <img
+                            src="https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741678/book-covers-2x.png">
+                        <div class="middle">
+                            <div class="text">Slide 5</div>
+                        </div>
+                    </div>
+                    <!-- <div class="card-body">
+                        <div class="card-content">
+                            <div class="card-title">Content box
+                            </div>
+
+                        </div>
+                    </div> -->
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
-</div> -->
 <!-- ====================================================   =================================================== -->
 
 <!-- Home page video container -->
@@ -168,7 +267,7 @@ include('./include/top-bar.php');
     <div style="padding: 0 44px 10px 0;">
       <a href="#light" id="video-anchor-tag" onclick="lightbox_open();">
         <img class="light-vd" src="https://fiverr-res.cloudinary.com/q_auto,f_auto,w_900,dpr_2.0/v1/attachments/generic_asset/asset/089e3bb9352f90802ad07ad9f6a4a450-1599517407052/selling-proposition-still-1400-x1.png" alt="Fiver image" width="700" height="450" />
-        <img class="video-icon" src=".\\assest\\img\\ico\\play.png" alt="" />
+        <img class="video-icon" src="assest\dist\img\ico\play.png" alt="" />
       </a>
     </div>
   </div>

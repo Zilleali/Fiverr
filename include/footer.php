@@ -149,7 +149,8 @@
 
 
 
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
 <script src="assest\dist\js\slider.js"></script>
 <script src=".\assest\dist\js\main.js"></script>
 <!-- <script src="assest\plugin\bootstrap-slider\bootstrap-slider.min.js"></script> -->
@@ -160,15 +161,44 @@
 <!-- <script src='https://code.jquery.com/jquery-migrate-1.2.1.min.js'></script>
 <script src='https://code.jquery.com/jquery-1.11.0.min.js'></script> -->
 <script>
-  $(function() {
-    $(window).on("scroll", function() {
-      if ($(window).scrollTop() > 10) {
-        $(".navbar").addClass("active");
-      } else {
-        $(".navbar").removeClass("active");
+ $(".slider").slick({
+    infinite: false,
+    speed: 800,
+    slidesToShow: 5,
+    slidesToScroll: 1,
+    autoplay: true,
+    // autoplaySpeed: 2000,
+    dots: false,
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 3,
+          infinite: true,
+          dots: false,
+        }
+      },
+      {
+        breakpoint: 600,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 2
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
       }
-    });
+      // You can unslick at a given breakpoint now by adding:
+      // settings: "unslick"
+      // instead of a settings object
+    ]
   });
+  
 </script>
 <script>
   
