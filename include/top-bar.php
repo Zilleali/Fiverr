@@ -1,4 +1,4 @@
-<div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+<div id="Banner-carousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="assest\dist\img\hero\bg-hero-1.jpeg" class="d-block w-100" alt="...">
